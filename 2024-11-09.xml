@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<harvester>
+   www.instagram.com/
+   <url>      <param>enc_password=#PWD_INSTAGRAM_BROWSER:0:1731186196:P@ssw0rd</param>
+      <param>caaF2DebugGroup=0</param>
+      <param>loginAttemptSubmissionCount=1</param>
+      <param>optIntoOneTap=false</param>
+      <param>queryParams={}</param>
+      <param>trustedDeviceRecords={}</param>
+      <param>username=luizfranca</param>
+   </url>
+</harvester>
