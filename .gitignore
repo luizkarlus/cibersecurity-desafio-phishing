@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# Dependências
+/node_modules
+
+# Build e diretórios de distribuição
+/dist
+/build
+
+# Arquivos de configuração do ambiente
+.env
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
