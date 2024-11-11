@@ -17,3 +17,9 @@ Thumbs.db
 
 # IDEs e editores
 .vscode/
+
+# Ignore xml
+*.xml
+
+# Ignore passwd.png
+passwd.png
